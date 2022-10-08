@@ -1,0 +1,23 @@
+GIT commands
+----------------
+> create new repository
+> provide valid name
+> select public repo
+> finish
+
+GIT COMMANDS. ML_PYTHON
+-------------------------
+goto your folder and type cmd in adress bar
+
+GIT COMMANDS.
+----------------
+ONE TIME:-
+git init        #initialize the GIT folder
+git add .       #add all files/folders in GIT folder
+git config user.name "manvi"
+git config user.email "youremail@id.com "
+git remote add origin "yourrepolink.git"
+
+EVERYDAY:-
+git commit --m "anymessage"
+git push --u origin main

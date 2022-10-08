@@ -1,0 +1,3 @@
+module-- it is a .py file; eg- os, maths
+packages-- collection of modules eg __init__
+libraries-- collection of packages

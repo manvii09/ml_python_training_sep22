@@ -1,0 +1,51 @@
+#rules of variable:-
+1. cant start with number
+ex. 1-'python' , a1='python'
+
+2. no space
+ex- a 1='python'
+
+3.can't use special character
+ex- a$='hello';a_1= 'hi'; =200
+
+4.can't use keyword
+for= 2.2
+--------------------------------------------------------------------
+#python operator:-
+
+7types-
+1. arithmatic  (+,-,*,//,%,**)
+2. comparision/relational operator  (>,<,>=,<=,!=,==)
+3. assignment operator (=,+=,-=,*=,/=,//=)
+4. bitwise( &,$,^)
+5. logical operator (and, or, not)
+6. identity operator (is, is not)
+7. membership operator (in, not in)
+-------------------------------------------------------------------
+
+()-- function, expression, tuple
+[]-- list, indexing, slicing
+{}-- set,dictionary
+<>-- NO USE 
+
+------------------------------------------------------------------
+Data types in python
+1. numeric-- int--a=5
+float-- b= 5.5
+complex= 3+5j
+
+2.String-- str--a='hello'/a="hello"/a= "'hello"'
+b='''hello'''(not possible)
+
+3.List-- list-- my_list= ['abc' , 5,5.2, 2+5j)
+
+4. Tuple-- tuple-- my_tuple= (45,4.5, 'hi', 'bye')
+
+5. Set-- set-- {1,23,456, 50}
+
+6. Dictionary-- dict{key: value}
+
+7. Boolean-- True, false
+
+-------------------------------------------------------------
+

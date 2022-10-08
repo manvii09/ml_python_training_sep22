@@ -1,0 +1,23 @@
+1. string
+2. indexing-
+a= 'hello'
+he
+a[starting point(by default 0): stop:(excluding):STEP(b.d 1)]
+a[0,2]
+--------------------------------------------------------------------
+list:-
+1.[]
+2. homo/hetro
+3. mutable
+4. indexing/slicing/
+--------------------------------------------------------------------
+Tupple:-
+1. ()
+2. comma sep val
+3.immutable
+4. indexing/slicing
+------------------------------------------------------------------
+Set:-
+1.unordered
+2. indexing/slicing(
+3. unique value

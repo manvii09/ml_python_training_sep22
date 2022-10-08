@@ -1,0 +1,64 @@
+1.to insert a name:-
+d1['name'].insert(1, 'bipul')
+
+2.to add string;- (string/string format)
+declare a=
+b=
+f' hi {a} welcomes to {b}'
+
+3. loops:-
+
+1.for
+eg.
+for i in [1,2,3,4,5] :
+    print(i)
+
+eg.for x in "helloworld" :
+    print(x)
+
+    
+
+2.do while
+eg.
+t =[2,5,8,6,10,16]
+                
+num=1
+                
+while num<=5:
+    print('hello')
+    num+=1
+
+  eg.
+while True:
+    print('this is an infinite loop')
+
+
+3. conitune and break function:-
+
+eg.
+for i in[1,2,'abc','xyz',23,20]:
+    if i== 'xyx':
+        continue
+    print(i)
+
+4. pass function    
+-----------------------------------------
+
+function:-
+1. no i/p but o/p
+2. no  i/p no o/p
+3. i/p but no o/p
+4. o/p and i/p
+----------------------------------------
+
+1. taking multiple i/p
+2. returning multiple o/p
+3. keyword argument
+4. default value
+5. *args
+6. **kwargs
+
+
+    
+
+

@@ -1,0 +1,20 @@
+python-m pip install scikit- learn
+-------------------------------------------
+
+#bring the data
+preprocessing/analysis
+
+#split data(training, testing)
+ from sklearn.model_selection import train_test_split
+xtrain, xtest, ytrain,ytest= train_test_split(features, target, test_size=0.25, random_state=101)
+
+#train the MODEL
+from sklearn.linear_model import linearRegression
+model= linearRegression()
+model.fit(xtrain,ytrain)
+
+#model evaluation
+ model.score(xtest, ytest)*100
+
+#deploy the model
+ypred= model.predict(amy_query_data)
